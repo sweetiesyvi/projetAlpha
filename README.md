@@ -24,10 +24,10 @@ The wireframe was created with figma, to have a basic structure of my website fo
 **Repository: https://github.com/sweetiesyvi/projetAlpha?tab=readme-ov-file**
 
 ## code Snippet
-<footer>
+/*<footer>
   <p> 2025 Discover Congo </p>
   <button id="theme-btn">Dark Mode</button>
-</footer>
+</footer>*/
 
 **I create a dark mode bouton for the dark mode with JavaScript.**
 
@@ -37,12 +37,9 @@ The wireframe was created with figma, to have a basic structure of my website fo
 **WAVE Accessibility Report: **
 
 ## credits & collabs
-**- Framework used google fonts**
+**- Framework: google fonts**
 
-**-tools:**
-  - figma
-  - VS Code
-  - Github Pages
+**-tools: figma(wireframe), VS Code, Github Pages**
 
 **-images source: google chrome, avast secure browser**
 
