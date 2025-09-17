@@ -20,6 +20,7 @@ The wireframe was created with figma, to have a basic structure of my website fo
 
 ## How to view
 **Live Site: https://sweetiesyvi.github.io/projetAlpha/**
+
 **Repository: https://github.com/sweetiesyvi/projetAlpha?tab=readme-ov-file**
 
 ## code Snippet
@@ -27,3 +28,19 @@ The wireframe was created with figma, to have a basic structure of my website fo
   <p> 2025 Discover Congo </p>
   <button id="theme-btn">Dark Mode</button>
 </footer>
+
+**I create a dark mode bouton for the dark mode with JavaScript.**
+
+## validation links
+**Nu HTML Validator: **
+
+**WAVE Accessibility Report: **
+
+## credits & collabs
+- Framework used google fonts
+-tools:
+  - figma
+  - VS Code
+  - Github Pages
+-images source: google chrome, avast secure browser
+-I use chatgpt and nova for suggestion explanation and guidance when I was really stuck .
