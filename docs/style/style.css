@@ -87,7 +87,17 @@ img {
 
 .inline-img {
   display: inline-block;
-  margin-right: 10px;
+  vertical-align: top;
+  width: 47%; 
+  margin: 1%;
+}
+
+@media (max-width: 768px) {
+  .inline-img {
+    display: block;
+    width: 90%;
+    margin: 10px auto;
+  }
 }
 
 footer {
@@ -139,3 +149,4 @@ footer button:hover {
   background: #333;
   border-bottom: 2px solid #444;
 }
+
