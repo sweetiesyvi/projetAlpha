@@ -37,10 +37,10 @@ The wireframe was created with figma, to have a basic structure of my website fo
 **WAVE Accessibility Report: **
 
 ## credits & collabs
-- Framework used google fonts
--tools:
+**- Framework used google fonts**
+**-tools:**
   - figma
   - VS Code
   - Github Pages
--images source: google chrome, avast secure browser
--I use chatgpt and nova for suggestion explanation and guidance when I was really stuck .
+**-images source: google chrome, avast secure browser**
+**-I use chatgpt and nova for suggestion explanation and guidance when I was really stuck.**
