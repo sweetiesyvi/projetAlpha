@@ -16,7 +16,7 @@ so that I can learn about the country and prepare for a future trip.**
 
 ## WireFrame 
 The wireframe was created with figma, to have a basic structure of my website for my own guidance in the website creation
-![Wireframe](images/wireframe.png)
+![Wireframe](docs/images/wireframe.png)
 
 ## How to view
 **Live Site: **
