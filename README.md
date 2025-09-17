@@ -19,7 +19,7 @@ The wireframe was created with figma, to have a basic structure of my website fo
 ![Wireframe](docs/images/wireframe.png)
 
 ## How to view
-**Live Site: **
+**Live Site: https://sweetiesyvi.github.io/projetAlpha/**
 **Repository: **
 
 ## code Snippet
