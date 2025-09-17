@@ -33,9 +33,9 @@ The wireframe was created with figma, to have a basic structure of my website fo
 **I create a dark mode bouton for the dark mode with JavaScript.**
 
 ## validation links
-**Nu HTML Validator: **
+**Nu HTML Validator: https://validator.w3.org/nu/?doc=https%3A%2F%2Fsweetiesyvi.github.io%2FprojetAlpha%2F**
 
-**WAVE Accessibility Report: **
+**WAVE Accessibility Report: https://wave.webaim.org/report#/https://sweetiesyvi.github.io/projetAlpha/**
 
 ## credits & collabs
 **- Framework: google fonts**
