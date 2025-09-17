@@ -20,7 +20,7 @@ The wireframe was created with figma, to have a basic structure of my website fo
 
 ## How to view
 **Live Site: https://sweetiesyvi.github.io/projetAlpha/**
-**Repository: **
+**Repository: https://github.com/sweetiesyvi/projetAlpha?tab=readme-ov-file**
 
 ## code Snippet
 <footer>
